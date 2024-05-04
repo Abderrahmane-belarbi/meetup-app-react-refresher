@@ -1,0 +1,44 @@
+.navigationHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #00171B;
+}
+
+.navigationNav {
+  max-width: 280px;
+}
+
+.navigationUl {
+  display: flex;
+  gap: 20px;
+}
+
+.navigationLi {
+  list-style: none;
+  font-size: 18px;
+}
+
+.navigationA {
+  color: #eee;
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navigationA:hover {
+  color: #86c5af;
+}
+
+
+.logo {
+  font-family:monospace;
+  font-size: 28px;
+  font-weight: 900;
+}
+
+.logospan{
+  font-family:monospace;
+  font-size: 28px;
+  font-weight: 900;
+  color: #86c5af;
+}
