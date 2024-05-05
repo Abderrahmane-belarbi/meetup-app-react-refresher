@@ -3,7 +3,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 10px 20px;
-  background-color: #00171B;
+  background-color: #002025;
   width: 100%;
   position: fixed;
   top: 0;
@@ -35,6 +35,12 @@
   text-decoration: none;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.active{
+  color: #86c5af;
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 .navigationA:hover {
   color: #86c5af;
 }
