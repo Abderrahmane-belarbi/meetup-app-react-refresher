@@ -3,18 +3,17 @@
   flex-direction: column;
   gap: 40px;
   justify-content: center;
+  margin: 0 auto;
 }
 
 .allMeetsHeader{
   color: #86c5af;
   font-size: 30px;
-  width: 55%;
   margin-bottom: 20px;
-  text-align: center;
   padding: 5px 0;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
-}
-.emptyDiv{
+/* .emptyDiv{
   padding-top: 100px;
-}
+} */
