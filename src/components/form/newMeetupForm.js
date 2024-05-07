@@ -32,7 +32,7 @@ export default function NewMeetupForm() {
       }
     )
       .then(function (res) {
-        navigate('/');
+        navigate("/");
       })
       .catch(function (res) {
         console.log(res);
